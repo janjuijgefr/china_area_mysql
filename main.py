@@ -21,3 +21,5 @@ ENV PORT 3000
 ENV NODE_ENV production
 
 CMD ["node", "index.js"]
+
+# PR Merge: 2025-10-20 - enhancement/merge-5179
