@@ -1,0 +1,7 @@
+# .travis.yml
+# Auto-generated Sen 20 Okt 2025 03:04:22 WIB
+
+version: '1.0'
+settings:
+  enabled: true
+  debug: false
